@@ -9,7 +9,7 @@ Além disso, a área tá crescendo demais e ganhando cada vez mais visibilidade,
 - 😜 aprendizagem: Python, HTML, CSS, JS, Java e DataBase
 - Contatos:
 Celular: 61 99915-1373
-Discord: sunnyzx11
+
 
 
 
