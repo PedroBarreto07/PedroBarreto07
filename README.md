@@ -46,7 +46,7 @@ Discord: sunnyzx11
 Este repositório é o meu espaço para compartilhar projetos, estudos e aprendizados ao longo da minha jornada acadêmica e profissional. Aqui você vai encontrar iniciativas que refletem meu crescimento e paixão por tecnologia.
 
 ## 📫 Vamos nos conectar!
-[![Discord](https://img.shields.io/badge/Discord-henriqrsg-5865F2?style=flat&logo=discord)](https://discordapp.com/users/579114384748707841)
+[![Discord](https://img.shields.io/badge/Discord-sunnyzx11-5865F2?style=flat&logo=discord)](https://discordapp.com/users/579114384748707841)
 
 
 🛠️ *“A tecnologia é apenas uma ferramenta. No que diz respeito a obter as crianças trabalhando juntas e motivadas, o professor é o mais importante.” – Bill Gates*
