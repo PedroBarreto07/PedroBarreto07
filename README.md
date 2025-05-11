@@ -7,7 +7,7 @@ Bom..., sou um estudante iniciante em Ciência da Computação, começando a ent
 Além disso, a área tá crescendo demais e ganhando cada vez mais visibilidade, o que me deixou ainda mais animado pra seguir esse caminho.
 - 📚 Esse é meu primeiro semestre na universidade
 - 😜 Aprendizagem: Python, HTML, CSS, JS, Java e DataBase
-- 📱 Contatos:61 99915-1373
+- 📱 Contatos: 61 99915-1373
 
 
 
