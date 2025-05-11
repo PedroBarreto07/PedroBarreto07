@@ -15,8 +15,10 @@ Celular: 61 99915-1373
 
 
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?PedroBarreto07&layout=compact)
-![GitHub Estatísticas](https://github-readme-stats.vercel.app/api?PedroBarreto07&show_icons=true&count_private=true&hide=prs)
+<div align="center">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=PedroBarreto07&show_icons=true&theme=chartreuse-dark"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBarreto07&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+</div>
 
 
 ##
