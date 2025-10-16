@@ -3,9 +3,9 @@
 
 
 - E aí, tudo certo?,
-Bom..., sou um estudante iniciante em Ciência da Computação, começando a entender esse mundo que sempre me chamou atenção, principalmente por causa dos jogos, que despertaram minha curiosidade lá atrás sobre como tudo isso funciona por dentro.
+Bom..., sou um estudante de Ciência da Computação, começando a entender esse mundo que sempre me chamou atenção, principalmente por causa dos jogos, que despertaram minha curiosidade lá atrás sobre como tudo isso funciona por dentro.
 Além disso, a área tá crescendo demais e ganhando cada vez mais visibilidade, o que me deixou ainda mais animado pra seguir esse caminho.
-- 📚 Esse é meu primeiro semestre na universidade
+- 📚 Esse é meu segundo semestre na universidade
 - 😜 Aprendizagem: Python, HTML, CSS, JS, Java e DataBase
 - 📱 Contatos: 61 99915-1373
 
