@@ -7,7 +7,7 @@ Bom..., sou um estudante de Ciência da Computação, começando a entender esse
 Além disso, a área tá crescendo demais e ganhando cada vez mais visibilidade, o que me deixou ainda mais animado pra seguir esse caminho.
 - 📚 Estou atualmente no meu terceiro semestre na universidade
 - 😜 Aprendizagem: Python, HTML, CSS, JS, Java e DataBase
-- 📱 Contatos: 61 99915-1373
+- 📱 Contato: 61 99915-1373
 
 
 ## 🛠️ Tecnologias e Conhecimentos
@@ -66,7 +66,7 @@ Além disso, a área tá crescendo demais e ganhando cada vez mais visibilidade,
 
 Este repositório é o meu espaço para compartilhar projetos, estudos e aprendizados ao longo da minha jornada acadêmica e profissional. Aqui você vai encontrar iniciativas que refletem meu crescimento e paixão por tecnologia.
 
-## 📫 Vamos nos conectar!
+## 📫 Vamos conversar!
 [![Discord](https://img.shields.io/badge/Discord-sunnyzx11-5865F2?style=flat&logo=discord)](https://discordapp.com/users/579114384748707841)
 
 
