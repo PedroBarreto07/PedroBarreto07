@@ -8,12 +8,28 @@ Além disso, a área tá crescendo demais e ganhando cada vez mais visibilidade,
 - 📚 Esse é meu segundo semestre na universidade
 - 😜 Aprendizagem: Python, HTML, CSS, JS, Java e DataBase
 - 📱 Contatos: 61 99915-1373
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+
+## 🛠️ Tecnologias e Conhecimentos
+
+![Big Data](https://img.shields.io/badge/-Big%20Data-black?style=for-the-badge&logo=apachehadoop)
+![HTML](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java&logoColor=white)
+![Database](https://img.shields.io/badge/-Database-grey?style=for-the-badge&logo=mysql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)
 
+---
 
+## 📊 Áreas de Interesse
+
+- Engenharia de Dados  
+- Desenvolvimento Back-End  
+- Análise de Dados  
+- Sistemas e Bancos de Dados  
 
 
 
