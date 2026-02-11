@@ -29,7 +29,11 @@ Além disso, a área tá crescendo demais e ganhando cada vez mais visibilidade,
 - Engenharia de Dados  
 - Desenvolvimento Back-End  
 - Análise de Dados  
-- Sistemas e Bancos de Dados  
+- Sistemas e Bancos de Dados
+- Desenvolvimento de software
+- Análise e visualização de dados
+- Algoritmos e lógica computacional
+- Otimização e modelagem matemática  
 
 
 
@@ -55,12 +59,7 @@ Além disso, a área tá crescendo demais e ganhando cada vez mais visibilidade,
 
 🎓 Estudante de **Ciência da Computação** no [Centro Universitário de Brasília - UniCEUB], sou bom em resolver problemas reais com tecnologia, dados e lógica.
 
-## 💡 Interesses
 
-- Desenvolvimento de software
-- Análise e visualização de dados
-- Algoritmos e lógica computacional
-- Otimização e modelagem matemática
 
 ## 📌 Objetivo deste GitHub
 
