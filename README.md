@@ -50,6 +50,7 @@ Além disso, a área tá crescendo demais e ganhando cada vez mais visibilidade,
 <h1>Meios de contato</h1>
 <a href="https://www.instagram.com/pedrobarreto_03/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/pedro-barreto-palheta-de-oliveira-2a3868364/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a/>
+<a href="https://mail.google.com/mail/u/2/#inbox" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
 
 ##
 
