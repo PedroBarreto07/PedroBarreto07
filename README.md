@@ -8,6 +8,11 @@ Além disso, a área tá crescendo demais e ganhando cada vez mais visibilidade,
 - 📚 Esse é meu segundo semestre na universidade
 - 😜 Aprendizagem: Python, HTML, CSS, JS, Java e DataBase
 - 📱 Contatos: 61 99915-1373
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)
+
 
 
 
