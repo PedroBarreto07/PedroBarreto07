@@ -6,7 +6,7 @@
 Bom..., sou um estudante de Ciência da Computação, começando a entender esse mundo que sempre me chamou atenção, principalmente por causa dos jogos, que despertaram minha curiosidade lá atrás sobre como tudo isso funciona.
 Além disso, a área tá crescendo demais e ganhando cada vez mais visibilidade, o que me deixou ainda mais animado pra seguir esse caminho e para continuar estudando/apredendo cada vez mais.
 - 📚 Estou atualmente no meu terceiro semestre na universidade
-- 😜 Aprendizagem: Python, HTML, CSS, JS, Java, DataBase, Big Data, TypeScript e React
+- 😜 Aprendizagem: Python, HTML, CSS, JS, Java, DataBase, Big Data, TypeScript, React e PHP
 - 📱 Contato: 61 99915-1373
 
 
