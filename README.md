@@ -21,6 +21,7 @@ Além disso, a área tá crescendo demais e ganhando cada vez mais visibilidade,
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
