@@ -28,7 +28,8 @@ Além disso, a área tá crescendo demais e ganhando cada vez mais visibilidade,
 ## 📊 Áreas de Interesse
 
 - Engenharia de Dados  
-- Desenvolvimento Back-End  
+- Desenvolvimento Back-End
+- Desenvolvimento Front-End
 - Análise de Dados  
 - Sistemas e Bancos de Dados
 - Desenvolvimento de software
