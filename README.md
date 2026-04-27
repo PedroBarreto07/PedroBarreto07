@@ -58,6 +58,11 @@
   <img alaing=center alt="aigis" src="https://media1.tenor.com/m/iiqecr5YT3UAAAAd/itoshi-sae-blue-lock.gif"/>
 </div>
 
+<img alt="henriqrsg Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=henriqrsg&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/henriqrsg/henriqrsg/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
 
 ### Objetivo deste GitHub
