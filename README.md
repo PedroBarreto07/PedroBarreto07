@@ -1,5 +1,3 @@
-# Opa, Sou o Pedro Barreto!
-
 <div align="center">
   <h1>Opa! Sou o Pedro Barreto 👨‍💻</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Estudante+de+Ciência+da+Computação;Desenvolvedor;Apaixonado+por+Tecnologia!" alt="Typing SVG" />
