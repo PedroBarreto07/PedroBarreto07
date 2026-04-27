@@ -10,7 +10,13 @@ Além disso, a área tá crescendo demais e ganhando cada vez mais visibilidade,
 - 📱 Contato: 61 99915-1373
 
 
-## 🛠️ Tecnologias e Conhecimentos
+<br>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1800&color=58A6FF&center=true&vCenter=true&width=435&lines=TECNOLOGIAS+E+CONHECIMENTOS+QUE+UTILIZO!" />
+  </a>
+</p>
 
 <div align="center">
   <a href="https://skillicons.dev">
