@@ -8,6 +8,7 @@ Além disso, a área tá crescendo demais e ganhando cada vez mais visibilidade,
 - 📚 Estou atualmente no meu terceiro semestre na universidade
 - 😜 Aprendizagem: Python, HTML, CSS, JS, Java, DataBase, Big Data, TypeScript, React e PHP
 - 📱 Contato: 61 99915-1373
+- 🎓 Estudante de **Ciência da Computação** no [Centro Universitário de Brasília (UniCEUB)](https://www.uniceub.br/), sou bom em resolver problemas reais com tecnologia, dados e lógica.
 
 
 <br>
@@ -60,8 +61,6 @@ Além disso, a área tá crescendo demais e ganhando cada vez mais visibilidade,
 <div align="center">
   <img alaing=center alt="aigis" src="https://media1.tenor.com/m/iiqecr5YT3UAAAAd/itoshi-sae-blue-lock.gif"/>
 </div>
-
-🎓 Estudante de **Ciência da Computação** no [Centro Universitário de Brasília - UniCEUB], sou bom em resolver problemas reais com tecnologia, dados e lógica.
 
 
 
