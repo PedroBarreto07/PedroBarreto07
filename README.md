@@ -62,7 +62,11 @@
 
 ### Objetivo deste GitHub
 
-Este repositório é o meu espaço para compartilhar projetos, estudos e aprendizados ao longo da minha jornada acadêmica e profissional. Aqui você vai encontrar iniciativas que refletem meu crescimento e paixão por tecnologia.
+Este perfil é meu espaço para compartilhar projetos, estudos e aprendizados ao longo da minha jornada acadêmica e profissional.
+
+Aqui você vai encontrar trabalhos práticos, exercícios, sistemas desenvolvidos e projetos que representam minha evolução dentro da área de tecnologia.
+
+Meu objetivo é construir uma carreira sólida em desenvolvimento de software e banco de dados, criando soluções úteis, eficientes e bem estruturadas.
 
 ### Vamos conversar!
 [![Discord](https://img.shields.io/badge/Discord-sunnyzx11-5865F2?style=flat&logo=discord)](https://discordapp.com/users/579114384748707841)
