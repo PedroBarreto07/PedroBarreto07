@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Estudante+de+Ciência+da+Computação;Desenvolvedor;Apaixonado+por+Tecnologia!" alt="Typing SVG" />
 </div>
 
-###Sobre mim
+##Sobre mim
 
 * **O que faço hoje:** Atuo na criação de sistemas e aplicativos para o **STM** (Superior Tribunal Militar), desenvolvendo soluções tecnológicas para modernizar e trazer mais eficiência ao tribunal.
 * **O que estou aprendendo:** Aprofundando meus conhecimentos em engenharia de software, algoritmos complexos e modelagem matemática
@@ -28,8 +28,6 @@
   </a>
 </div>
 
----
-
 ###Áreas de Interesse
 
 - Engenharia de Dados  
@@ -44,22 +42,17 @@
 
 
 
-
-
 <div align="center">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=PedroBarreto07&show_icons=true&theme=chartreuse-dark"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBarreto07&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 
 
-##
-
 <h1>Meios de contato</h1>
 <a href="https://www.instagram.com/pedrobarreto_03/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/pedro-barreto-palheta-de-oliveira-2a3868364/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
 <a href="mailto:barretolas15@gmail.com?subject=Contato%20via%20GitHub"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
 
-##
 
 <div align="center">
   <img alaing=center alt="aigis" src="https://media1.tenor.com/m/iiqecr5YT3UAAAAd/itoshi-sae-blue-lock.gif"/>
@@ -67,11 +60,11 @@
 
 
 
-###Objetivo deste GitHub
+##Objetivo deste GitHub
 
 Este repositório é o meu espaço para compartilhar projetos, estudos e aprendizados ao longo da minha jornada acadêmica e profissional. Aqui você vai encontrar iniciativas que refletem meu crescimento e paixão por tecnologia.
 
-###Vamos conversar!
+##Vamos conversar!
 [![Discord](https://img.shields.io/badge/Discord-sunnyzx11-5865F2?style=flat&logo=discord)](https://discordapp.com/users/579114384748707841)
 
 
