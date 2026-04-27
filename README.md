@@ -52,7 +52,6 @@
 <a href="https://www.instagram.com/pedrobarreto_03/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/pedro-barreto-palheta-de-oliveira-2a3868364/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
 <a href="mailto:barretolas15@gmail.com?subject=Contato%20via%20GitHub"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
-<a href="(https://img.shields.io/badge/Discord-sunnyzx11-5865F2?style=flat&logo=discord)(https://discordapp.com/users/579114384748707841)"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" alt="Discord"></a>
 
 
 <div align="center">
