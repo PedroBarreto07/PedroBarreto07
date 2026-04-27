@@ -1,6 +1,9 @@
 # Opa, Sou o Pedro Barreto!
 
-
+<div align="center">
+  <h1>Opa! Sou o Pedro Barreto 👨‍💻</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Estudante+de+Ciência+da+Computação;Desenvolvedor;Apaixonado+por+Tecnologia!" alt="Typing SVG" />
+</div>
 
 - E aí, tudo certo?,
 Bom..., sou um estudante de Ciência da Computação, começando a entender esse mundo que sempre me chamou atenção, principalmente por causa dos jogos, que despertaram minha curiosidade lá atrás sobre como tudo isso funciona.
