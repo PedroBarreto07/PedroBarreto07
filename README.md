@@ -12,16 +12,11 @@ Além disso, a área tá crescendo demais e ganhando cada vez mais visibilidade,
 
 ## 🛠️ Tecnologias e Conhecimentos
 
-![Big Data](https://img.shields.io/badge/-Big%20Data-black?style=for-the-badge&logo=apachehadoop)
-![HTML](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java&logoColor=white)
-![Database](https://img.shields.io/badge/-Database-grey?style=for-the-badge&logo=mysql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
-![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,java,php,mysql,py,cpp,git,github" />
+  </a>
+</div>
 
 ---
 
