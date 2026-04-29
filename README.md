@@ -6,7 +6,7 @@
 ### Sobre mim
 
 * **O que faço hoje:** Atuo na criação de sistemas e aplicativos para o **STM** (Superior Tribunal Militar), desenvolvendo soluções tecnológicas para modernizar e trazer mais eficiência ao tribunal.
-* **O que estou aprendendo:** Aprofundando meus conhecimentos em engenharia de software, algoritmos complexos e modelagem matemática
+* **O que estou aprendendo:** Aprofundando meus conhecimentos em engenharia de software, algoritmos complexos e modelagem matemática.
 * **Habilidade Especial:** Mineração e análise de dados e transformo grandes volumes de dados brutos em insights estratégicos e de alto valor, sempre com forte visão crítica.
 - Estou atualmente no meu terceiro semestre na universidade
 - Aprendizagem: Python, HTML, CSS, JS, Java, DataBase, Big Data, TypeScript, React e PHP
