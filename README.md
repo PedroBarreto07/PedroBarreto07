@@ -8,7 +8,7 @@
 * **O que faço hoje:** Estagiário de TI no **STM** (Superior Tribunal Militar) | Front-end, automação e desenvolvimento web, customização de plataformas EAD (Moodle) e automação de processos. Também desenvolvo projetos próprios explorando PHP, MySQL e APIs REST, desenvolvendo soluções tecnológicas para modernizar e trazer mais eficiência ao tribunal.
 * **O que estou aprendendo:** Aprofundando meus conhecimentos em engenharia de software, algoritmos complexos e modelagem matemática.
 * **Habilidade Especial:** Mineração e análise de dados e transformo grandes volumes de dados brutos em insights estratégicos e de alto valor, sempre com forte visão crítica.
-- Estou atualmente no meu terceiro semestre na universidade
+- Estou atualmente no meu quarto semestre na universidade
 - Aprendizagem: Python, HTML, CSS, JS, Java, DataBase, Big Data, TypeScript, React e PHP
 - Contato: 61 99915-1373
 - Estudante de **Ciência da Computação** no [Centro Universitário de Brasília (UniCEUB)](https://www.uniceub.br/), sou bom em resolver problemas reais com tecnologia, dados e lógica.
