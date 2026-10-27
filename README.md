@@ -1,3 +1,12 @@
+<p align="center">
+  <picture>
+    <source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/banner-mobile-escuro.svg?v=1">
+    <source media="(max-width: 767px)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/banner-mobile-claro.svg?v=1">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/banner-desktop-escuro.svg?v=1">
+    <img src="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/banner-desktop-claro.svg?v=1" alt="Pedro Barreto. Estagiário no STM. Ciência da Computação no UniCEUB, Brasília, DF">
+  </picture>
+</p>
+
 <div align="center">
   <h1>Opa! Sou o Pedro Barreto 👨‍💻</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Estudante+de+Ciência+da+Computação;Desenvolvedor;Apaixonado+por+Tecnologia!" alt="Typing SVG" />
@@ -28,6 +37,22 @@
   </a>
 </div>
 
+<a id="stats"></a>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PedroBarreto07&show_icons=true&hide_border=true&bg_color=0B1324&title_color=E8B84A&icon_color=E8B84A&text_color=F4D98B">
+  <img alt="Estatísticas do GitHub de Pedro Barreto: estrelas, commits, PRs e issues" src="https://github-readme-stats.vercel.app/api?username=PedroBarreto07&show_icons=true&hide_border=true&bg_color=F5EFE2&title_color=0B1324&icon_color=B9892E&text_color=0B1324">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PedroBarreto07&hide_border=true&background=00000000&ring=E8B84A&fire=E8B84A&currStreakLabel=E8B84A">
+  <img alt="Sequência de contribuições de Pedro Barreto no GitHub" src="https://streak-stats.demolab.com?user=PedroBarreto07&hide_border=true&background=FFFFFF00&ring=8A6210&fire=8A6210&currStreakLabel=8A6210">
+</picture>
+
+</div>
+
 ### Áreas de Interesse
 
 - Engenharia de Dados  
@@ -51,7 +76,7 @@
   <img alaing=center alt="aigis" src="https://media1.tenor.com/m/iiqecr5YT3UAAAAd/itoshi-sae-blue-lock.gif"/>
 </div>
 
-<img alt="henriqrsg Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=henriqrsg&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
+<img alt="PedroBarreto07 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=PedroBarreto07&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/henriqrsg/henriqrsg/output/github-contribution-grid-snake-dark.svg" />
@@ -71,4 +96,3 @@ Meu objetivo é construir uma carreira sólida em desenvolvimento de software e 
 
 
 🛠️ *“A tecnologia é apenas uma ferramenta. No que diz respeito a obter as crianças trabalhando juntas e motivadas, o professor é o mais importante.” – Bill Gates*
-
