@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1500&color=B9892E&center=true&vCenter=true&width=640&lines=Opa!+Sou+o+Pedro+Barreto;Dev+em+formação;Front-end,+automação+e+dados;Apaixonado+por+tecnologia" alt="Opa! Sou o Pedro Barreto. Dev em formação. Front-end, automação e dados." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1500&color=B9892E&center=true&vCenter=true&width=640&lines=Opa%21+Sou+o+Pedro+Barreto;Dev+em+forma%C3%A7%C3%A3o;Front-end%2C+automa%C3%A7%C3%A3o+e+dados;Apaixonado+por+tecnologia" alt="Opa! Sou o Pedro Barreto. Dev em formação. Front-end, automação e dados." />
 </div>
 
 <p align="center">
@@ -38,16 +38,16 @@
 <p align="center"><b>Uso no dia a dia</b></p>
 <p align="center">
   <a href="https://skillicons.dev"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,php,mysql,py,java,git,github&theme=dark">
-    <img alt="HTML, CSS, JavaScript, PHP, MySQL, Python, Java, Git, GitHub" src="https://skillicons.dev/icons?i=html,css,js,php,mysql,py,java,git,github&theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cphp%2Cmysql%2Cpy%2Cjava%2Cgit%2Cgithub&theme=dark">
+    <img alt="HTML, CSS, JavaScript, PHP, MySQL, Python, Java, Git, GitHub" src="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cphp%2Cmysql%2Cpy%2Cjava%2Cgit%2Cgithub&theme=light">
   </picture></a>
 </p>
 
 <p align="center"><b>Aprendendo</b></p>
 <p align="center">
   <a href="https://skillicons.dev"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,cpp&theme=dark">
-    <img alt="TypeScript, React, C++" src="https://skillicons.dev/icons?i=ts,react,cpp&theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Creact%2Ccpp&theme=dark">
+    <img alt="TypeScript, React, C++" src="https://skillicons.dev/icons?i=ts%2Creact%2Ccpp&theme=light">
   </picture></a>
 </p>
 
