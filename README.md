@@ -16,6 +16,7 @@
   <a href="#tecnologias">Tecnologias</a> ·
   <a href="#projetos">Projetos</a> ·
   <a href="#estudos">Estudos</a> ·
+  <a href="#inteligencia-artificial">IA</a> ·
   <a href="#areas-de-interesse">Interesses</a> ·
   <a href="#stats">Stats</a> ·
   <a href="#contato">Contato</a>
@@ -81,6 +82,17 @@
 - [Desenvolvimento_de_Interfaces](https://github.com/PedroBarreto07/Desenvolvimento_de_Interfaces): projetos e exercícios da disciplina, com HTML, CSS e JavaScript
 - [Python](https://github.com/PedroBarreto07/Python): scripts de estudo, testes e pequenos projetos pessoais
 - [HTML](https://github.com/PedroBarreto07/HTML): lista de tarefas interativa em HTML com JavaScript
+
+---
+
+<a id="inteligencia-artificial"></a>
+### Inteligência artificial
+
+Uso IA como ferramenta de trabalho e estou montando meu próprio sistema em camadas: memória em notas no Obsidian, skills reutilizáveis, agentes que dividem as tarefas entre si e integração de ferramentas por MCP e APIs.
+
+Orquestração de agentes · skills reutilizáveis · prompts e contexto · integração de ferramentas via MCP e APIs · base de conhecimento pessoal em Obsidian · desenvolvimento com apoio de IA
+
+<img alt="Claude" src="https://img.shields.io/badge/Claude-0B1324?style=flat-square&logo=claude&logoColor=E8B84A"> <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-0B1324?style=flat-square&logo=claude&logoColor=E8B84A"> <img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-0B1324?style=flat-square"> <img alt="MCP" src="https://img.shields.io/badge/MCP-0B1324?style=flat-square&logo=modelcontextprotocol&logoColor=E8B84A"> <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-0B1324?style=flat-square&logo=obsidian&logoColor=E8B84A"> <img alt="Maestri" src="https://img.shields.io/badge/Maestri-0B1324?style=flat-square">
 
 ---
 
