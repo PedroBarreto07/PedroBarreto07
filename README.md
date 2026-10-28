@@ -24,9 +24,11 @@
 <a id="sobre-mim"></a>
 ### Sobre mim
 
-- **Hoje:** Estagiário de TI no **STM** (Superior Tribunal Militar), com front-end, automação e customização de plataformas EAD (Moodle).
+- **Hoje:** Estagiário de TI no **STM** (Superior Tribunal Militar), com front-end, automação e customização de plataformas EAD (Moodle). Também desenvolvo projetos próprios com PHP, MySQL e APIs REST, criando soluções que modernizam e trazem mais eficiência ao tribunal.
 - **Estudo:** Ciência da Computação no [UniCEUB](https://www.uniceub.br/), 4º semestre.
 - **Foco:** dados, engenharia de software, algoritmos e modelagem matemática.
+- **Habilidade especial:** mineração e análise de dados. Transformo grandes volumes de dados brutos em insights estratégicos e de alto valor, sempre com forte visão crítica.
+- **Em resumo:** sou bom em resolver problemas reais com tecnologia, dados e lógica.
 - **Local:** Brasília, DF
 - **Contato:** 61 99915-1373
 
@@ -49,6 +51,9 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Creact%2Ccpp&theme=dark">
     <img alt="TypeScript, React, C++" src="https://skillicons.dev/icons?i=ts%2Creact%2Ccpp&theme=light">
   </picture></a>
+</p>
+<p align="center">
+  <sub>Também estudo Big Data e bancos de dados.</sub>
 </p>
 
 ---
