@@ -78,8 +78,8 @@
   <img alt="Estatísticas do GitHub de Pedro Barreto" src="https://github-readme-stats.vercel.app/api?username=PedroBarreto07&show_icons=true&hide_border=true&bg_color=F5EFE2&title_color=0B1324&icon_color=B9892E&text_color=0B1324">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PedroBarreto07&hide_border=true&background=00000000&ring=E8B84A&fire=E8B84A&currStreakLabel=E8B84A">
-  <img alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=PedroBarreto07&hide_border=true&background=FFFFFF00&ring=8A6210&fire=8A6210&currStreakLabel=8A6210">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PedroBarreto07&hide_border=true&background=00000000&ring=E8B84A&fire=E8B84A&currStreakLabel=E8B84A&currStreakNum=F4D98B&sideNums=F4D98B&sideLabels=E8B84A&dates=C9B26A&stroke=7A6428">
+  <img alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=PedroBarreto07&hide_border=true&background=FFFFFF00&ring=8A6210&fire=8A6210&currStreakLabel=8A6210&currStreakNum=0B1324&sideNums=0B1324&sideLabels=8A6210&dates=656D76&stroke=D8CBA8">
 </picture>
 
 <picture>
