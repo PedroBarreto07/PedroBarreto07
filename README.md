@@ -14,6 +14,8 @@
 <p align="center">
   <a href="#sobre-mim">Sobre</a> ·
   <a href="#tecnologias">Tecnologias</a> ·
+  <a href="#projetos">Projetos</a> ·
+  <a href="#estudos">Estudos</a> ·
   <a href="#areas-de-interesse">Interesses</a> ·
   <a href="#stats">Stats</a> ·
   <a href="#contato">Contato</a>
@@ -55,6 +57,30 @@
 <p align="center">
   <sub>Também estudo Big Data e bancos de dados.</sub>
 </p>
+
+---
+
+<a id="projetos"></a>
+### Projetos
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| [RestaurantePRO](https://github.com/PedroBarreto07/restaurante_PRO) | Sistema de gestão para restaurantes: pedidos, mesas, cardápio, clientes, relatórios em PDF e API REST própria com autenticação por Bearer Token. | PHP, MySQL, Bootstrap, JavaScript |
+| [Extensão Tomate (PWA)](https://github.com/PedroBarreto07/extensao-tomat-o) | PWA derivado de uma extensão do Chrome, com API em Node.js, containers Docker e testes de ponta a ponta com integração contínua. | Node.js, Docker, Nginx, Playwright, GitHub Actions |
+| [Indústria4.0](https://github.com/PedroBarreto07/ceub_eng_soft_2_2026) | Loja fictícia de automação industrial, com catálogo de produtos e carrinho. Projeto da disciplina de Desenvolvimento Web (UniCEUB). | HTML, CSS, JavaScript |
+
+---
+
+<a id="estudos"></a>
+### Estudos e disciplinas
+
+- [exercicios-php](https://github.com/PedroBarreto07/exercicios-php): exercícios de lógica de programação, manipulação de dados e integração com banco de dados
+- [projetos-php](https://github.com/PedroBarreto07/projetos-php): projetos em PHP com HTML, MySQL e XAMPP
+- [projetoMYSQL-php](https://github.com/PedroBarreto07/projetoMYSQL-php): aplicação em PHP com MySQL com inserção, listagem e exclusão de registros
+- [botafogo-php](https://github.com/PedroBarreto07/botafogo-php): projeto em PHP conectado ao MySQL, com cadastro de jogadores e títulos
+- [Desenvolvimento_de_Interfaces](https://github.com/PedroBarreto07/Desenvolvimento_de_Interfaces): projetos e exercícios da disciplina, com HTML, CSS e JavaScript
+- [Python](https://github.com/PedroBarreto07/Python): scripts de estudo, testes e pequenos projetos pessoais
+- [HTML](https://github.com/PedroBarreto07/HTML): lista de tarefas interativa em HTML com JavaScript
 
 ---
 
