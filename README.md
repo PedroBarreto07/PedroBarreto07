@@ -29,7 +29,7 @@
 
 - **Hoje:** Estagiário de TI no **STM** (Superior Tribunal Militar), na Seção de Educação a Distância: automações com Google Apps Script, protótipos com IA generativa e front-end para o Portal EAD (Moodle).
 - **Estudo:** Ciência da Computação no [UniCEUB](https://www.uniceub.br/), 4º semestre.
-- **Foco:** usar IA como alavanca para construir automações, agentes e ferramentas que resolvem problemas reais, com base em engenharia de software e dados.
+- **Foco:** construir automações, agentes e ferramentas com IA que resolvem problemas reais, com base em engenharia de software e dados.
 - **Como trabalho:** entendo o problema, escrevo a especificação, construo com apoio de IA (Claude Code), testo e itero até funcionar na prática.
 - **Local:** Brasília, DF
 
@@ -156,7 +156,7 @@ Orquestração de agentes · skills reutilizáveis · prompts e contexto · inte
 <a id="objetivo"></a>
 ### Objetivo deste GitHub
 
-Aqui reúno projetos, estudos e experimentos da faculdade e do estágio. Meu objetivo é crescer como desenvolvedor usando IA no dia a dia: construir automações, agentes e ferramentas que economizam tempo e viram produto real, com base sólida em engenharia de software e dados.
+Aqui reúno projetos, estudos e experimentos da faculdade e do estágio. Meu objetivo é crescer como desenvolvedor usando IA no dia a dia: construir automações, agentes e ferramentas que economizam tempo e resolvem problemas de verdade, como faço no estágio, com base sólida em engenharia de software e dados.
 
 ---
 
