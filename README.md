@@ -170,11 +170,6 @@ Aqui reúno projetos, estudos e experimentos da faculdade e do estágio. Meu obj
   <a href="https://discordapp.com/users/579114384748707841"><img alt="Discord" src="https://img.shields.io/badge/Discord-0B1324?style=for-the-badge&logo=discord&logoColor=E8B84A"/></a>
 </p>
 
-<div align="center">
-  <img alt="Itoshi Sae, Blue Lock" src="https://media1.tenor.com/m/iiqecr5YT3UAAAAd/itoshi-sae-blue-lock.gif" width="300"/>
-</div>
-
-
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-barreto-palheta-de-oliveira-2a3868364/">
   <picture>
