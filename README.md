@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1500&color=B9892E&center=true&vCenter=true&width=640&lines=Opa%21+Sou+o+Pedro+Barreto;Dev+em+forma%C3%A7%C3%A3o;Front-end%2C+automa%C3%A7%C3%A3o+e+dados;Apaixonado+por+tecnologia" alt="Opa! Sou o Pedro Barreto. Dev em formação. Front-end, automação e dados." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1500&color=B9892E&center=true&vCenter=true&width=640&lines=Opa%21+Sou+o+Pedro+Barreto;Automa%C3%A7%C3%B5es+e+agentes+com+IA;Front-end%2C+automa%C3%A7%C3%A3o+e+dados;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%C2%B7+UniCEUB" alt="Opa! Sou o Pedro Barreto. Automações e agentes com IA. Front-end, automação e dados. Ciência da Computação no UniCEUB." />
 </div>
 
 <p align="center">
@@ -27,13 +27,11 @@
 <a id="sobre-mim"></a>
 ### Sobre mim
 
-- **Hoje:** Estagiário de TI no **STM** (Superior Tribunal Militar), com front-end, automação e customização de plataformas EAD (Moodle). Também desenvolvo projetos próprios com PHP, MySQL e APIs REST, criando soluções que modernizam e trazem mais eficiência ao tribunal.
+- **Hoje:** Estagiário de TI no **STM** (Superior Tribunal Militar), na Seção de Educação a Distância: automações com Google Apps Script, protótipos com IA generativa e front-end para o Portal EAD (Moodle).
 - **Estudo:** Ciência da Computação no [UniCEUB](https://www.uniceub.br/), 4º semestre.
-- **Foco:** dados, engenharia de software, algoritmos e modelagem matemática.
-- **Habilidade especial:** mineração e análise de dados. Transformo grandes volumes de dados brutos em insights estratégicos e de alto valor, sempre com forte visão crítica.
-- **Em resumo:** sou bom em resolver problemas reais com tecnologia, dados e lógica.
+- **Foco:** usar IA como alavanca para construir automações, agentes e ferramentas que resolvem problemas reais, com base em engenharia de software e dados.
+- **Como trabalho:** entendo o problema, escrevo a especificação, construo com apoio de IA (Claude Code), testo e itero até funcionar na prática.
 - **Local:** Brasília, DF
-- **Contato:** 61 99915-1373
 
 ---
 
@@ -88,6 +86,10 @@ Construídos com o Claude Code a partir das minhas especificações: eu defino o
 <a id="estudos"></a>
 ### Estudos e disciplinas
 
+<details>
+<summary><b>Repositórios de estudo</b> <sub>(exercícios e disciplinas)</sub></summary>
+<br>
+
 - [exercicios-php](https://github.com/PedroBarreto07/exercicios-php): exercícios de lógica de programação, manipulação de dados e integração com banco de dados
 - [projetos-php](https://github.com/PedroBarreto07/projetos-php): projetos em PHP com HTML, MySQL e XAMPP
 - [projetoMYSQL-php](https://github.com/PedroBarreto07/projetoMYSQL-php): aplicação em PHP com MySQL com inserção, listagem e exclusão de registros
@@ -95,6 +97,8 @@ Construídos com o Claude Code a partir das minhas especificações: eu defino o
 - [Desenvolvimento_de_Interfaces](https://github.com/PedroBarreto07/Desenvolvimento_de_Interfaces): projetos e exercícios da disciplina, com HTML, CSS e JavaScript
 - [Python](https://github.com/PedroBarreto07/Python): scripts de estudo, testes e pequenos projetos pessoais
 - [HTML](https://github.com/PedroBarreto07/HTML): lista de tarefas interativa em HTML com JavaScript
+
+</details>
 
 ---
 
@@ -112,15 +116,9 @@ Orquestração de agentes · skills reutilizáveis · prompts e contexto · inte
 <a id="areas-de-interesse"></a>
 ### Áreas de Interesse
 
-- Engenharia de Dados
-- Desenvolvimento Back-End
-- Desenvolvimento Front-End
-- Análise de Dados
-- Sistemas e Bancos de Dados
-- Desenvolvimento de software
-- Análise e visualização de dados
-- Algoritmos e lógica computacional
-- Otimização e modelagem matemática
+- IA generativa, agentes e automação de processos
+- Engenharia de software (front-end e back-end)
+- Análise e engenharia de dados
 
 ---
 
@@ -158,11 +156,7 @@ Orquestração de agentes · skills reutilizáveis · prompts e contexto · inte
 <a id="objetivo"></a>
 ### Objetivo deste GitHub
 
-Este perfil é meu espaço para compartilhar projetos, estudos e aprendizados ao longo da minha jornada acadêmica e profissional.
-
-Aqui você vai encontrar trabalhos práticos, exercícios, sistemas desenvolvidos e projetos que representam minha evolução dentro da área de tecnologia.
-
-Meu objetivo é construir uma carreira sólida em desenvolvimento de software e banco de dados, criando soluções úteis, eficientes e bem estruturadas.
+Aqui reúno projetos, estudos e experimentos da faculdade e do estágio. Meu objetivo é crescer como desenvolvedor usando IA no dia a dia: construir automações, agentes e ferramentas que economizam tempo e viram produto real, com base sólida em engenharia de software e dados.
 
 ---
 
@@ -180,7 +174,6 @@ Meu objetivo é construir uma carreira sólida em desenvolvimento de software e 
   <img alt="Itoshi Sae, Blue Lock" src="https://media1.tenor.com/m/iiqecr5YT3UAAAAd/itoshi-sae-blue-lock.gif" width="300"/>
 </div>
 
-<p align="center"><em>“A tecnologia é apenas uma ferramenta. No que diz respeito a obter as crianças trabalhando juntas e motivadas, o professor é o mais importante.” – Bill Gates</em></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-barreto-palheta-de-oliveira-2a3868364/">
