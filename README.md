@@ -62,7 +62,7 @@
 <a id="projetos"></a>
 ### Projetos
 
-#### ⭐ Em destaque: projetos com IA
+#### Em destaque: projetos com IA
 
 Construídos com o Claude Code a partir das minhas especificações: eu defino o problema e as decisões, reviso, testo e itero. Todos estão no repositório [**portfolio-ia**](https://github.com/PedroBarreto07/portfolio-ia).
 
