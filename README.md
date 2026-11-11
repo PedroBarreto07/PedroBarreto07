@@ -64,6 +64,19 @@
 <a id="projetos"></a>
 ### Projetos
 
+#### ⭐ Em destaque: projetos com IA
+
+Construídos com o Claude Code a partir das minhas especificações: eu defino o problema e as decisões, reviso, testo e itero. Todos estão no repositório [**portfolio-ia**](https://github.com/PedroBarreto07/portfolio-ia).
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| [Jarvis](https://github.com/PedroBarreto07/portfolio-ia/tree/main/jarvis) | Assistente pessoal por voz para Windows: acorda com "Jarvis", entende português com Whisper local, responde falando e controla PC, Google Agenda, Gmail, clima, notícias e Spotify, com um LLM (Claude API) interpretando os comandos. | Python, Claude API, Whisper, APIs do Google, Spotify API |
+| [Aurora](https://github.com/PedroBarreto07/portfolio-ia/tree/main/aurora-site) · [demo](https://pedrobarreto07.github.io/portfolio-ia/aurora-site/) | Site institucional de agência digital: uma viagem do espaço à Terra guiada pelo scroll, com fotos da NASA. | JavaScript, GSAP, Lenis, Barba.js |
+| [Nexora](https://github.com/PedroBarreto07/portfolio-ia/tree/main/nexora-site) | Experiência WebGL imersiva guiada pelo scroll, da órbita ao asfalto, com áudio sintetizado no navegador. | Three.js, GSAP, Vite, Web Audio |
+| [ORA 60A](https://github.com/PedroBarreto07/portfolio-ia/tree/main/ora-60a-site) | Site 3D de relógio de luxo 100% procedural em tempo real, com vista explodida, 4 acabamentos e configurador com link compartilhável. | Three.js, Svelte 5, GSAP, Vite |
+
+#### Outros projetos
+
 | Projeto | O que é | Stack |
 |---|---|---|
 | [RestaurantePRO](https://github.com/PedroBarreto07/restaurante_PRO) | Sistema de gestão para restaurantes: pedidos, mesas, cardápio, clientes, relatórios em PDF e API REST própria com autenticação por Bearer Token. | PHP, MySQL, Bootstrap, JavaScript |
