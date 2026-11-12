@@ -1,4 +1,4 @@
-name: Gerar cobrinha das contribuições
+name: Gerar cobrinha e estatísticas
 
 on:
   schedule:
@@ -15,13 +15,22 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v4
+
       - name: Gerar SVGs da cobrinha
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#0B1324&color_dots=#ebedf0,#f3e2b3,#e6c56e,#c9992f,#8a6210
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#E8B84A&color_dots=#161b22,#3d3115,#6e5520,#a8802e,#E8B84A
+
+      - name: Gerar card de estatísticas
+        run: python3 .github/scripts/gerar_stats.py dist
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
 
       - name: Publicar na branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0

@@ -125,31 +125,23 @@ Orquestração de agentes · skills reutilizáveis · prompts e contexto · inte
 <a id="stats"></a>
 ### Estatísticas
 
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/output/stats-escuro.svg">
+    <img alt="Estatísticas do GitHub de Pedro Barreto" src="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/output/stats-claro.svg" width="48%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PedroBarreto07&hide_border=true&background=00000000&ring=E8B84A&fire=E8B84A&currStreakLabel=E8B84A&currStreakNum=F4D98B&sideNums=F4D98B&sideLabels=E8B84A&dates=C9B26A&stroke=7A6428">
+    <img alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=PedroBarreto07&hide_border=true&background=FFFFFF00&ring=8A6210&fire=8A6210&currStreakLabel=8A6210&currStreakNum=0B1324&sideNums=0B1324&sideLabels=8A6210&dates=656D76&stroke=D8CBA8" width="48%">
+  </picture>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PedroBarreto07&show_icons=true&hide_border=true&bg_color=0B1324&title_color=E8B84A&icon_color=E8B84A&text_color=F4D98B">
-  <img alt="Estatísticas do GitHub de Pedro Barreto" src="https://github-readme-stats.vercel.app/api?username=PedroBarreto07&show_icons=true&hide_border=true&bg_color=F5EFE2&title_color=0B1324&icon_color=B9892E&text_color=0B1324">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PedroBarreto07&hide_border=true&background=00000000&ring=E8B84A&fire=E8B84A&currStreakLabel=E8B84A&currStreakNum=F4D98B&sideNums=F4D98B&sideLabels=E8B84A&dates=C9B26A&stroke=7A6428">
-  <img alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=PedroBarreto07&hide_border=true&background=FFFFFF00&ring=8A6210&fire=8A6210&currStreakLabel=8A6210&currStreakNum=0B1324&sideNums=0B1324&sideLabels=8A6210&dates=656D76&stroke=D8CBA8">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Cobrinha comendo as contribuições de Pedro Barreto" src="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-<details>
-<summary><b>Mais estatísticas</b> <sub>(gráfico de atividade)</sub></summary>
-<br>
-<div align="center">
-  <img alt="Gráfico de atividade de Pedro Barreto" src="https://github-readme-activity-graph.vercel.app/graph/?username=PedroBarreto07&bg_color=RRGGBBAA&title_color=B9892E&color=B9892E&line=B9892E&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
-</div>
-</details>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Cobrinha comendo as contribuições de Pedro Barreto" src="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
