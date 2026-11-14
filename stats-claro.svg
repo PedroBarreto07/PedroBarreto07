@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Estatísticas do GitHub de Pedro Barreto">
+<style>text{font-family:"Segoe UI",Ubuntu,"Helvetica Neue",Arial,sans-serif}</style>
+<text x="25" y="34" font-size="17" font-weight="600" fill="#0B1324">Estatísticas do GitHub</text>
+<rect x="25" y="57" width="7" height="7" transform="rotate(45 28.5 60.5)" fill="#B9892E"/>
+<text x="42" y="66" font-size="13" fill="#656D76">Contribuições (12 meses):</text>
+<text x="250" y="66" font-size="13" font-weight="700" fill="#0B1324" text-anchor="end">130</text>
+<rect x="25" y="82" width="7" height="7" transform="rotate(45 28.5 85.5)" fill="#B9892E"/>
+<text x="42" y="91" font-size="13" fill="#656D76">Commits (12 meses):</text>
+<text x="250" y="91" font-size="13" font-weight="700" fill="#0B1324" text-anchor="end">107</text>
+<rect x="25" y="107" width="7" height="7" transform="rotate(45 28.5 110.5)" fill="#B9892E"/>
+<text x="42" y="116" font-size="13" fill="#656D76">Pull requests (12 meses):</text>
+<text x="250" y="116" font-size="13" font-weight="700" fill="#0B1324" text-anchor="end">6</text>
+<rect x="25" y="132" width="7" height="7" transform="rotate(45 28.5 135.5)" fill="#B9892E"/>
+<text x="42" y="141" font-size="13" fill="#656D76">Repositórios públicos:</text>
+<text x="250" y="141" font-size="13" font-weight="700" fill="#0B1324" text-anchor="end">18</text>
+<rect x="25" y="157" width="7" height="7" transform="rotate(45 28.5 160.5)" fill="#B9892E"/>
+<text x="42" y="166" font-size="13" fill="#656D76">Estrelas recebidas:</text>
+<text x="250" y="166" font-size="13" font-weight="700" fill="#0B1324" text-anchor="end">0</text>
+<text x="280" y="66" font-size="13" font-weight="600" fill="#0B1324">Linguagens</text>
+<rect x="280" y="76" width="190" height="8" rx="4" fill="#ECE4D2"/>
+<clipPath id="c"><rect x="280" y="76" width="190" height="8" rx="4"/></clipPath><g clip-path="url(#c)">
+<rect x="280.00" y="76" width="71.71" height="8" fill="#8A6210"/>
+<rect x="351.71" y="76" width="66.17" height="8" fill="#B9892E"/>
+<rect x="417.88" y="76" width="15.40" height="8" fill="#D9B260"/>
+<rect x="433.28" y="76" width="14.22" height="8" fill="#0B1324"/>
+<rect x="447.50" y="76" width="14.15" height="8" fill="#C7BFAE"/>
+</g>
+<circle cx="285" cy="104" r="4.5" fill="#8A6210"/>
+<text x="296" y="108" font-size="12" fill="#656D76">HTML</text>
+<text x="470" y="108" font-size="12" fill="#0B1324" text-anchor="end">37.7%</text>
+<circle cx="285" cy="123" r="4.5" fill="#B9892E"/>
+<text x="296" y="127" font-size="12" fill="#656D76">JavaScript</text>
+<text x="470" y="127" font-size="12" fill="#0B1324" text-anchor="end">34.8%</text>
+<circle cx="285" cy="142" r="4.5" fill="#D9B260"/>
+<text x="296" y="146" font-size="12" fill="#656D76">Python</text>
+<text x="470" y="146" font-size="12" fill="#0B1324" text-anchor="end">8.1%</text>
+<circle cx="285" cy="161" r="4.5" fill="#0B1324"/>
+<text x="296" y="165" font-size="12" fill="#656D76">CSS</text>
+<text x="470" y="165" font-size="12" fill="#0B1324" text-anchor="end">7.5%</text>
+<circle cx="285" cy="180" r="4.5" fill="#C7BFAE"/>
+<text x="296" y="184" font-size="12" fill="#656D76">PHP</text>
+<text x="470" y="184" font-size="12" fill="#0B1324" text-anchor="end">7.4%</text>
+</svg>
