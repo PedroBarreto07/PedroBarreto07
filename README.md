@@ -1,9 +1,9 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/banner-mobile-escuro.svg?v=3">
-    <source media="(max-width: 767px)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/banner-mobile-claro.svg?v=3">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/banner-desktop-escuro.svg?v=3">
-    <img src="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/banner-desktop-claro.svg?v=3" alt="Pedro Barreto. Estagiário no STM. Ciência da Computação no UniCEUB, Brasília, DF">
+    <source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/banner-mobile-escuro.svg?v=4">
+    <source media="(max-width: 767px)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/banner-mobile-claro.svg?v=4">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/banner-desktop-escuro.svg?v=4">
+    <img src="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/banner-desktop-claro.svg?v=4" alt="Pedro Barreto. Estagiário no STM. Ciência da Computação no UniCEUB, Brasília, DF">
   </picture>
 </p>
 
@@ -165,10 +165,10 @@ Aqui reúno projetos, estudos e experimentos da faculdade e do estágio. Meu obj
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-barreto-palheta-de-oliveira-2a3868364/">
   <picture>
-    <source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/rodape-mobile-escuro.svg?v=2">
-    <source media="(max-width: 767px)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/rodape-mobile-claro.svg?v=2">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/rodape-desktop-escuro.svg?v=2">
-    <img src="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/rodape-desktop-claro.svg?v=2" alt="Obrigado pela visita. Vamos conversar? Abre o LinkedIn">
+    <source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/rodape-mobile-escuro.svg?v=4">
+    <source media="(max-width: 767px)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/rodape-mobile-claro.svg?v=4">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/rodape-desktop-escuro.svg?v=4">
+    <img src="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/rodape-desktop-claro.svg?v=4" alt="Obrigado pela visita. Vamos conversar? Abre o LinkedIn">
   </picture>
   </a>
 </p>
