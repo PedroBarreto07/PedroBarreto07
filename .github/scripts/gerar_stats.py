@@ -32,10 +32,10 @@ query($login: String!) {
 """
 
 TEMAS = {
-    "escuro": {"titulo": "#E8B84A", "rotulo": "#C9B26A", "valor": "#F4D98B", "icone": "#E8B84A",
-               "trilho": "#1E2638", "barras": ["#E8B84A", "#B9892E", "#F4D98B", "#7A6428", "#4A3E1F"]},
-    "claro": {"titulo": "#0B1324", "rotulo": "#656D76", "valor": "#0B1324", "icone": "#B9892E",
-              "trilho": "#ECE4D2", "barras": ["#8A6210", "#B9892E", "#D9B260", "#0B1324", "#C7BFAE"]},
+    "escuro": {"titulo": "#FFFFFF", "rotulo": "#BBBBBB", "valor": "#D0D0D0", "icone": "#FFFFFF",
+               "trilho": "#222222", "barras": ["#FFFFFF", "#777777", "#D0D0D0", "#555555", "#444444"]},
+    "claro": {"titulo": "#000000", "rotulo": "#656D76", "valor": "#000000", "icone": "#777777",
+              "trilho": "#E5E5E5", "barras": ["#444444", "#777777", "#999999", "#000000", "#BBBBBB"]},
 }
 
 

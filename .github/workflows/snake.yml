@@ -23,8 +23,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#0B1324&color_dots=#ebedf0,#f3e2b3,#e6c56e,#c9992f,#8a6210
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#E8B84A&color_dots=#161b22,#3d3115,#6e5520,#a8802e,#E8B84A
+            dist/github-contribution-grid-snake.svg?color_snake=#000000&color_dots=#ebedf0,#D9D9D9,#B0B0B0,#808080,#444444
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#FFFFFF&color_dots=#161b22,#2A2A2A,#555555,#8A8A8A,#FFFFFF
 
       - name: Gerar card de estatísticas
         run: python3 .github/scripts/gerar_stats.py dist

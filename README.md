@@ -1,14 +1,14 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/banner-mobile-escuro.svg?v=2">
-    <source media="(max-width: 767px)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/banner-mobile-claro.svg?v=2">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/banner-desktop-escuro.svg?v=2">
-    <img src="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/banner-desktop-claro.svg?v=2" alt="Pedro Barreto. Estagiário no STM. Ciência da Computação no UniCEUB, Brasília, DF">
+    <source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/banner-mobile-escuro.svg?v=3">
+    <source media="(max-width: 767px)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/banner-mobile-claro.svg?v=3">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/banner-desktop-escuro.svg?v=3">
+    <img src="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/banner-desktop-claro.svg?v=3" alt="Pedro Barreto. Estagiário no STM. Ciência da Computação no UniCEUB, Brasília, DF">
   </picture>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1500&color=B9892E&center=true&vCenter=true&width=640&lines=Opa%21+Sou+o+Pedro+Barreto;Automa%C3%A7%C3%B5es+e+agentes+com+IA;Front-end%2C+automa%C3%A7%C3%A3o+e+dados;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%C2%B7+UniCEUB" alt="Opa! Sou o Pedro Barreto. Automações e agentes com IA. Front-end, automação e dados. Ciência da Computação no UniCEUB." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1500&color=A0A0A0&center=true&vCenter=true&width=640&lines=Opa%21+Sou+o+Pedro+Barreto;Automa%C3%A7%C3%B5es+e+agentes+com+IA;Front-end%2C+automa%C3%A7%C3%A3o+e+dados;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%C2%B7+UniCEUB" alt="Opa! Sou o Pedro Barreto. Automações e agentes com IA. Front-end, automação e dados. Ciência da Computação no UniCEUB." />
 </div>
 
 <p align="center">
@@ -109,7 +109,7 @@ Uso IA como ferramenta de trabalho e estou montando meu próprio sistema em cama
 
 Orquestração de agentes · skills reutilizáveis · prompts e contexto · integração de ferramentas via MCP e APIs · base de conhecimento pessoal em Obsidian · desenvolvimento com apoio de IA
 
-<img alt="Claude" src="https://img.shields.io/badge/Claude-0B1324?style=flat-square&logo=claude&logoColor=E8B84A"> <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-0B1324?style=flat-square&logo=claude&logoColor=E8B84A"> <img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-0B1324?style=flat-square"> <img alt="MCP" src="https://img.shields.io/badge/MCP-0B1324?style=flat-square&logo=modelcontextprotocol&logoColor=E8B84A"> <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-0B1324?style=flat-square&logo=obsidian&logoColor=E8B84A"> <img alt="Maestri" src="https://img.shields.io/badge/Maestri-0B1324?style=flat-square">
+<img alt="Claude" src="https://img.shields.io/badge/Claude-000000?style=flat-square&logo=claude&logoColor=FFFFFF"> <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=claude&logoColor=FFFFFF"> <img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-000000?style=flat-square"> <img alt="MCP" src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=FFFFFF"> <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-000000?style=flat-square&logo=obsidian&logoColor=FFFFFF"> <img alt="Maestri" src="https://img.shields.io/badge/Maestri-000000?style=flat-square">
 
 ---
 
@@ -131,8 +131,8 @@ Orquestração de agentes · skills reutilizáveis · prompts e contexto · inte
     <img alt="Estatísticas do GitHub de Pedro Barreto" src="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/output/stats-claro.svg" width="48%">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PedroBarreto07&hide_border=true&background=00000000&ring=E8B84A&fire=E8B84A&currStreakLabel=E8B84A&currStreakNum=F4D98B&sideNums=F4D98B&sideLabels=E8B84A&dates=C9B26A&stroke=7A6428">
-    <img alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=PedroBarreto07&hide_border=true&background=FFFFFF00&ring=8A6210&fire=8A6210&currStreakLabel=8A6210&currStreakNum=0B1324&sideNums=0B1324&sideLabels=8A6210&dates=656D76&stroke=D8CBA8" width="48%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PedroBarreto07&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=D0D0D0&sideNums=D0D0D0&sideLabels=FFFFFF&dates=BBBBBB&stroke=555555">
+    <img alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=PedroBarreto07&hide_border=true&background=FFFFFF00&ring=444444&fire=444444&currStreakLabel=444444&currStreakNum=000000&sideNums=000000&sideLabels=444444&dates=656D76&stroke=CCCCCC" width="48%">
   </picture>
 </p>
 
@@ -156,19 +156,19 @@ Aqui reúno projetos, estudos e experimentos da faculdade e do estágio. Meu obj
 ### Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedro-barreto-palheta-de-oliveira-2a3868364/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0B1324?style=for-the-badge&logo=linkedin&logoColor=E8B84A"/></a>
-  <a href="mailto:barretolas15@gmail.com?subject=Contato%20via%20GitHub"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-0B1324?style=for-the-badge&logo=gmail&logoColor=E8B84A"/></a>
-  <a href="https://www.instagram.com/pedrobarreto_03/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-0B1324?style=for-the-badge&logo=instagram&logoColor=E8B84A"/></a>
-  <a href="https://discordapp.com/users/579114384748707841"><img alt="Discord" src="https://img.shields.io/badge/Discord-0B1324?style=for-the-badge&logo=discord&logoColor=E8B84A"/></a>
+  <a href="https://www.linkedin.com/in/pedro-barreto-palheta-de-oliveira-2a3868364/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/></a>
+  <a href="mailto:barretolas15@gmail.com?subject=Contato%20via%20GitHub"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/></a>
+  <a href="https://www.instagram.com/pedrobarreto_03/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/></a>
+  <a href="https://discordapp.com/users/579114384748707841"><img alt="Discord" src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FFFFFF"/></a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-barreto-palheta-de-oliveira-2a3868364/">
   <picture>
-    <source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/rodape-mobile-escuro.svg?v=1">
-    <source media="(max-width: 767px)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/rodape-mobile-claro.svg?v=1">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/rodape-desktop-escuro.svg?v=1">
-    <img src="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/rodape-desktop-claro.svg?v=1" alt="Obrigado pela visita. Vamos conversar? Abre o LinkedIn">
+    <source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/rodape-mobile-escuro.svg?v=2">
+    <source media="(max-width: 767px)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/rodape-mobile-claro.svg?v=2">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/rodape-desktop-escuro.svg?v=2">
+    <img src="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/rodape-desktop-claro.svg?v=2" alt="Obrigado pela visita. Vamos conversar? Abre o LinkedIn">
   </picture>
   </a>
 </p>
