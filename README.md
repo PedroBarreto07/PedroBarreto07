@@ -1,9 +1,9 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/banner-mobile-escuro.svg?v=1">
-    <source media="(max-width: 767px)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/banner-mobile-claro.svg?v=1">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/banner-desktop-escuro.svg?v=1">
-    <img src="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/banner-desktop-claro.svg?v=1" alt="Pedro Barreto. Estagiário no STM. Ciência da Computação no UniCEUB, Brasília, DF">
+    <source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/banner-mobile-escuro.svg?v=2">
+    <source media="(max-width: 767px)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/banner-mobile-claro.svg?v=2">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/banner-desktop-escuro.svg?v=2">
+    <img src="https://raw.githubusercontent.com/PedroBarreto07/PedroBarreto07/main/assets/banner/banner-desktop-claro.svg?v=2" alt="Pedro Barreto. Estagiário no STM. Ciência da Computação no UniCEUB, Brasília, DF">
   </picture>
 </p>
 
@@ -66,12 +66,12 @@
 
 Construídos com o Claude Code a partir das minhas especificações: eu defino o problema e as decisões, reviso, testo e itero. Todos estão no repositório [**portfolio-ia**](https://github.com/PedroBarreto07/portfolio-ia).
 
-| Projeto | O que é | Stack |
-|---|---|---|
-| [Jarvis](https://github.com/PedroBarreto07/portfolio-ia/tree/main/jarvis) | Assistente pessoal por voz para Windows: acorda com "Jarvis", entende português com Whisper local, responde falando e controla PC, Google Agenda, Gmail, clima, notícias e Spotify, com um LLM (Claude API) interpretando os comandos. | Python, Claude API, Whisper, APIs do Google, Spotify API |
-| [Aurora](https://github.com/PedroBarreto07/portfolio-ia/tree/main/aurora-site) · [demo](https://pedrobarreto07.github.io/portfolio-ia/aurora-site/) | Site institucional de agência digital: uma viagem do espaço à Terra guiada pelo scroll, com fotos da NASA. | JavaScript, GSAP, Lenis, Barba.js |
-| [Nexora](https://github.com/PedroBarreto07/portfolio-ia/tree/main/nexora-site) · [demo](https://pedrobarreto07.github.io/portfolio-ia/nexora-site/) | Experiência WebGL imersiva guiada pelo scroll, da órbita ao asfalto, com áudio sintetizado no navegador. | Three.js, GSAP, Vite, Web Audio |
-| [ORA 60A](https://github.com/PedroBarreto07/portfolio-ia/tree/main/ora-60a-site) · [demo](https://pedrobarreto07.github.io/portfolio-ia/ora-60a-site/) | Site 3D de relógio de luxo 100% procedural em tempo real, com vista explodida, 4 acabamentos e configurador com link compartilhável. | Three.js, Svelte 5, GSAP, Vite |
+| Projeto | O que é | Stack | Demo |
+|---|---|---|---|
+| [Jarvis](https://github.com/PedroBarreto07/portfolio-ia/tree/main/jarvis) | Assistente pessoal por voz para Windows: acorda com "Jarvis", entende português com Whisper local, responde falando e controla PC, Google Agenda, Gmail, clima, notícias e Spotify, com um LLM (Claude API) interpretando os comandos. | Python, Claude API, Whisper, APIs do Google, Spotify API | — |
+| [Aurora](https://github.com/PedroBarreto07/portfolio-ia/tree/main/aurora-site) | Site institucional de agência digital: uma viagem do espaço à Terra guiada pelo scroll, com fotos da NASA. | JavaScript, GSAP, Lenis, Barba.js | [Abrir demo](https://pedrobarreto07.github.io/portfolio-ia/aurora-site/) |
+| [Nexora](https://github.com/PedroBarreto07/portfolio-ia/tree/main/nexora-site) | Experiência WebGL imersiva guiada pelo scroll, da órbita ao asfalto, com áudio sintetizado no navegador. | Three.js, GSAP, Vite, Web Audio | [Abrir demo](https://pedrobarreto07.github.io/portfolio-ia/nexora-site/) |
+| [ORA 60A](https://github.com/PedroBarreto07/portfolio-ia/tree/main/ora-60a-site) | Site 3D de relógio de luxo 100% procedural em tempo real, com vista explodida, 4 acabamentos e configurador com link compartilhável. | Three.js, Svelte 5, GSAP, Vite | [Abrir demo](https://pedrobarreto07.github.io/portfolio-ia/ora-60a-site/) |
 
 #### Outros projetos
 
